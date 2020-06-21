@@ -1,0 +1,23 @@
+To create this engine in Python, we would need the following data:
+
+Data:
+List of Countries, Capital Cities, and their location
+Happiness Index of each country
+Preferred types of venues	(User Input)
+Relative importance for each venue type	(User Input)
+
+Transformation:
+Tables from pages to Pandas data frame
+Coordinates to correct format for Foursquare query	
+Top Venues per Location
+Cleanup of Venue Categories
+Matrix format containing count of each category
+
+Sources
+List of Countries, Capital Cities, Coordinates: https://lab.lmnixon.org/4th/worldcapitals.html
+Happiness Index for each Country: https://en.wikipedia.org/wiki/World_Happiness_Report
+Top Venue Categories: Foursquare API
+
+
+The happiness index of each country is where I will do initial testing and confirmation that the environment impacts happiness. 
+The user inputs will be used to generate a 'score' for each place. This is ideally customizable depending on the client’s preferences.
