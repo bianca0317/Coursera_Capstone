@@ -1,7 +1,14 @@
 Introduction
 
-Many businesses have been affected by the pandemic. Lockdowns and quarantines have been required to flatten the curve on new cases and as such, travel plans have been put on hold. While this may be the least of our concerns now, several businesses that rely on travel and tourism have been severely negatively affected. Among the hardest hit are travel agencies. As such, my target audience for this project are travel agencies. They can use the resulting simple engine or a variant of it to make recommendations to future vacationers which will hopefully help bolster the economy of the target countries.
+Many businesses have been affected by the pandemic. Lockdowns and quarantines have been required to
+flatten the curve on new cases and as such, travel plans have been put on hold. While this may be the
+least of our concerns now, several businesses that rely on travel and tourism have been severely negatively
+affected. Among the hardest hit are travel agencies. As such, my target audience for this project are travel
+agencies. They can use the resulting simple engine or a variant of it to make recommendations to future
+vacationers which will hopefully help bolster the economy of the target countries.
 
 Problem
 
-The first travel after the pandemic will be important as this could impact the desire for any succeeding travels. To facilitate a pleasant experience once a vaccine is created and the world is open again, travel agencies can implement a recommendation engine that considers people’s preferences in a location.
+The first travel after the pandemic will be important as this could impact the desire for any succeeding travels.
+To facilitate a pleasant experience once a vaccine is created and the world is open again, travel agencies can
+implement a recommendation engine that considers people’s preferences in a location.
